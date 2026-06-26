@@ -1,5 +1,4 @@
 # intern_codex_challenge
-Intern Codex Challenge:
 # Time Series Anomaly Visualization Tool 
 Design and develop an interactive visualization tool for time series anomaly detection that highlights anomalies identified by various ML-based and statistical detection methods. The tool should allow users to select different historical lookback windows (e.g., 24 hours, 48 hours, and 72 hours) and observe how anomaly detection results change depending on the selected context window. 
 
