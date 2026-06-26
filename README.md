@@ -1,2 +1,2 @@
 # intern_codex_challenge
-Challenge:
+Intern Codex Challenge: Time Series Anomaly Visualization Tool 
